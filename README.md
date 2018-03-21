@@ -1,2 +1,2 @@
-# list-of-military-equipment-for-plastic-models
+# catalog-of-war-machine
 Database of military equipment for plastic models.
